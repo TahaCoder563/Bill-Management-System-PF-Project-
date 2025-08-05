@@ -23,8 +23,7 @@ This is a **C language** based **console project** developed for the Programming
 - Basic input validation
 
 📦 Bill-Management-System-PF-Project-
-                           
-                           └── main.c
+└── main.c
 
 ## ⚙️ How to Run
 
