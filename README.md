@@ -22,6 +22,9 @@ This is a **C language** based **console project** developed for the Programming
 - Conditional and loop statements
 - Basic input validation
 
+📦 Bill-Management-System-PF-Project-
+                           
+                           └── main.c
 
 ## ⚙️ How to Run
 
